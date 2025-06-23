@@ -9,7 +9,7 @@ public class ContaTerminal {
         //Exibir mensagem e capturar nome do cliente
         System.out.println("Por favor, digite seu nome.");
         var name = scanner.next();
-        //Exibir mensagem e agencia
+        //Exibir mensagem e capturar agencia
         System.out.println("Por favor, digite o número da Agência!");
         var agency = scanner.next();
         //Exibir mensagem e capturar conta
